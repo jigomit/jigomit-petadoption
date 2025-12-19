@@ -1,0 +1,21 @@
+{
+  "name": "jigmit-llp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mansi0422/jigomit-petadoption.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mansi0422/jigomit-petadoption/issues"
+  },
+  "homepage": "https://github.com/Mansi0422/jigomit-petadoption#readme"
+}
